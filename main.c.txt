@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+   double R, n, i;
+   float x[1000];
+   float y[1000];
+    printf("Podaj promien okregu\n");
+    //scanf("%e", &R);
+    printf("Ile strzalow chcesz oddac?");
+      // scanf("%e", &n); 
+while(n<1000000)
+{  
+printf("dupa ");
+n=n+1;
+}
+
+    //srand(n);
+    // 
+       // printf("%d. liczba pseudolosowa to %d\n", i, rand());
+  
+  system("PAUSE");	
+  return 0;
+}

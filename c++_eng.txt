@@ -1,0 +1,238 @@
+C=C+1
+
+
+“C is like sodomy: when you think the worst is over, you meet the ++.”
+~ Oscar Wilde on dplusplus
+“Apparently, the programming world is under the impression that placing two pluses next to eachother is in some way equivalent to plus one...”
+~ Benjamin Franklin on C++
+C=C+1
+Paradigm	 You name it we've got it, unless it's useful
+Discipline	 Severe typing
+Under influence of	 C, Medusa-2, C with Specs
+Bad influence on	 D?, Sumatra
+
+For those without comedic tastes, the so-called experts at Wikipedia have an article about C++.
+C=C+1 (IPA:/si? 'e.kw?l? si? pl?s wa?n/) is an alleged programming language derived from C by programming language algebra. It is one of the most successful conspiracies hatched/practical jokes ever played on nerds who take ideas like OOP seriously. It was also a pioneer of the technique of catching people out by introducing new features every five years or so that are too hard for the compilers to get right first time, and that, even when they do get it right, are incompatible with the old language in surprising and unpredictable ways.
+Other advanced features include pairs of keywords which look totally different but do almost exactly the same thing and having some keywords that get used everywhere to do a load of totally different things.
+It is obviously better than C[1], but most people are too feeble-minded to learn it, and usually die of an aneurism when they begin to learn how to use templates. Given the complexity of the language, only the best programmers can actually use it, and because of the necessary skills, the programs are always smaller, faster, and better than programs written in other languages.
+The standard abbreviation for C=C+1 is the letter C++
+Contents [hide]
+1 The language
+2 Example
+3 History
+3.1 C=C+1 is Born
+4 Design Principles
+5 Code Example
+6 Inheritance
+7 Module structure
+8 Data hiding
+9 Exceptions
+10 The Future
+11 Other Programs
+11.1 C-- the real challange
+11.2 Misc. Files
+12 Quotes
+13 Notes
+14 See also
+EditThe language
+
+The C++ language is a close relative of Gibberish, and is spoken by the people of Atlantis. However, nobody can study the language closely because Atlantis has yet to be found. But some nerds suggest it was spoken by early Aryans in the India as an average Indian understand C++ better than his mother toungue. Regardless here is a translation.
+The C++ language supports oO programming by providing support for abstraction, encapsulation, inheritance, polymorphism, metamorphism, symbolism, neopaganism, satanism, communism, non-determinism and severe masochism. It gives programmers more control by allowing them to overload and override functions, while being backwards-compatible with the C language ability to overrun buffers.
+( (C++ : Language) == (Gibberish : language) ) && (Atlantis.people::operator<< == C++) &&!
+(person->CanStudy(C++) == false);  Atlantis.location == NULL;  catch(...) {Translate(*this);}
+C++ derives from the same language as Gibberish and the people of Atlantis output to a C++ stream. However a person can study C++ is false. The location of Atlantis is unknown. Ignore exception and translate this.
+Edit Example
+
+C++ is considered as a simple script, here you can see the typical "Hello World" Example: new BodyPart:boobs; new BodyPart:penis; new Cell:Ovule; new Cell:Sperm; new Cell:Random=CreateSon(eyes:green); new Result1=boobs.find(Ovule); new Result2=penis.find(Sperm); if(Result1 + Result2 == Random) { cout<<"Hello World"; }
+Edit History
+
+C=C+1 was undoubtedly a Cold War conspiracy by someone against someone else. Ideas on who instigated the plan it, and what their target was, vary considerably.
+Some say C=C+1 was developed by hardcore Russian scientists who needed a computer language so hard to understand by human beings that it would keep the wages of computer scientists perpetually high for decades to come. The language managed to infiltrate the telephone infrastructure of the USA and allies via AT&T Bell labs. Some rumoured an AI known as Stroustrup to be the villain who caused this.
+Others, however, argue that Bell Labs was part of a secret CIA-funded scheme to bankrupt the Soviet Union by encouraging them to base all their software technology on a programming language so un-cost-effective that it would devastate their economy. Shortly after rumors about C and AWK reached top state planners, Kremlin officials were regularly discussing the "curly bracket language gap" that had opened up between the superpowers. The CIA plot was so successful that the scheme was quite openly adopted by the Reagan administration to win the cold war.
+C=C+1's immediate predecessor was C with Specs. This added a new keyword, class, which did exactly what struct did, only with more class. This was all very well at first, but the demand for more powerful obfuscation features was growing in the early 1980s, and soon class was doing all kinds of things.
+By the end of the decade, even this wasn't obscure or confusing enough, and there was very little more that class could do. It was time for a whole new keyword, and template added a whole new layer of confusion.
+Edit C=C+1 is Born
+C=C+1 is currently the top choice for nimrods when it comes to the art of computer programming. Created to be the replacement of all other programming languages, it has mutated far too much to be controlled. It has gained an almost sentient mind. it actively seeks out new host computers, finding and destroying all other languages on the hard drive, including English.
+With the added functionality of OOP (Object Obfuscated Programming) and ISBIUA (I'm smart because I use Acronyms), C=C+1 continues to be a severe threat to the computer world. Many have fallen victim to its merciless attacks on their PCs, losing most, if not all of their archived pornography and txt files.
+It is even believed that C=C+1 has taken over half of Asia's government, using their resources to plan an attack that will end the reign of VB.NET and D?.
+Edit Design Principles
+
+If it worked in Simula, Ada, Medusa-2 or anything else, it'll work in C=C+1
+There's nothing a few more curly brackets won't fix
+There's more than one sick and wrong way to do it
+Edit Code Example
+
+You have been warned, so don't come Segwaying to my ISP looking for my address, so that you can intoxicate me with your n00bi5h rants on life, the universe, and everything.
+The following is a small example of some dangerous C=C+1 code that, when compiled by Brazilian sweat shop children, it will donate all of Coca Cola's backup funds to charities around the world. I'm getting scared just thinking about it...
+#include <mutation.h>
+#include <iostream>
+#include <string>
+#include "evil.h"
+#include "coca-cola.h"
+
+// use the sexually transmitted disease namespace
+// be careful when using its methods across multiple programs
+using namespace std;     
+
+int main()
+{
+   // decrypt the elephant konstant, or the program may spontaneously combust
+   parse(ELEPHANT);
+   // get the total amount of money
+   long double money = Cola.GetMoney();
+   
+   // determine pimp factor
+   if (money > 10)
+     Donate(money);
+   else 
+   {
+     cout << "LOSERS!!!111!1!1" << endl;
+     KillAll(true); // It must be the apocalypse! Might as well kill everyone before Zeus does...
+   }
+   
+   return 0; // everything worked fine! Have a great day :)
+}
+As you can see from the complexity of the code above, it is nearly impossible to learn this language. That is one of the reasons why C=C+1 cannot be stopped. This disease in hiding will continue to spread its infectious bits and bytes until someone brave enough to learn its syntax destroys it with a recursive function. "What is recursion?" You may be asking. How the hell would I know? In order to understand recursion, one must first understand recursion.
+That being said, at least take some comfort in knowing that not all C=C+1 code is hard to learn. Consider the following typical Hello world program:
+#include <iostream>
+using namespace std;     
+
+int main()
+{
+   cout << "Hello, World!" << endl;
+   return 0; // it's very important, because you win, when ALL is Nothing ;}
+}
+Microsoft's C++ compiler called visual C++ is a little different:
+// whateverthenameis.cpp : Defines the entry point for the console application. // #include "stdafx.h" #include <iostream> int main() { using namespace std; cout << "Hello, World!" <<; return 0; }
+Output: Hello <error locating A Working Programme.exe>
+
+Here is another example to flirt with girls...
+#include <STD ISD PCO.h>
+#include <mobile.h>
+#include <sms.h>
+#include <love.h>
+#define Cute beautiful_lady
+
+int main()
+{
+	goto college;
+	scanf("100%" ,&ladies);
+	if(lady ==Cute)
+		line++;
+	while( !reply )
+	{
+		printf("I Love U");
+		scanf("100%" ,&reply);
+	}
+	if(reply == "GAALI") /* GAALI = ABUSE */
+		main(); /* go back and repeat the process */
+	else if(reply == "SANDAL ")
+		exit(1);
+	else if(reply == "I Love U")
+	{
+		lover =Cute;
+		love = (heart*)malloc( sizeof(lover) );
+	}
+	goto restaurant;
+	restaurant:
+	{
+		food++;
+		smile++;
+                if(pay  && lover) // dont want a crash, do we?
+                {
+			pay->money = lover->money;
+               } /* else { printf("geez, just saved us from a crash"); } */
+		return(college) ;
+	}
+	if(time==2.30)
+		goto cinema;
+	cinema:
+	{
+		watch++;
+		if(intermission)
+		{
+			coke++;
+			Popecorn++;
+		}
+	}
+}
+Edit Inheritance
+
+A class can nominate another class to acquire its possessions when it dies. This is achieved by the lastwillandtestament keyword. Each class can also have a nextofkin relationship to other classes, which defines the behaviour when a lastwillandtestament has not been defined. If neither lastwillandtestament nor nextofkin have been defined, then C=C+1 will nominate somebody at random (or pseudorandom, or in an absolutely predictable fashion, depending on the implementation).
+A unique characteristic of C=C+1 it that it lets your friends handle your private parts. With the std or sexually transmitted disease namespace now in the language, it is essential to have your private parts protected.
+Edit Module structure
+
+Also known as the "LEO" - linker error ocean. Like Goldilocks trying to find the porridge with the best specific heat. This header structure is overlinked:
+LNK431**** ERROR "simple1.h": ______stdcall mishmash(scone, scone) void static already defined in "simple2.h" - ERROR
+LNK431**** ERROR "simple1.h": ______stdcall mishmash(scone, scone) void static already defined in "starch.h" - ERROR
+FATAL ERROR: Consult KB eubadeprogramar.hlp
+Ooh, this one is underlinked:
+LNK431**** UNRESOLVED EXTERNAL SYMBOL "simple1.cpp": ______stdcall mishmash(scone, scone) void static:
+   See definition in "blech.h"
+FATAL ERROR: You suck
+This one is JUUUUUUUUUST RIGHT! (Actually it can't exist without some serious kung foo'):
+#if !defined(CRAMIT_H__7012E9AB_0584_4C2C_BEF9_8066666666DB1__INCLUDED_)
+#define CRAMIT_H__7012E9AB_0584_4C2C_BEF9_8066666666DB1__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#pragma vsj_smart_mode 1
+#pragma never_again_or_ill_smack_you
+#endif // _MSC_VER > 1000
+
+#ifdef HEADER_KARATE
+   ____________ext_linkage void mishmash(void* scone, DANGLING* scone);
+   ___________ext_linkage void runtime_type_safety(CLOWN* pDamnit);
+#else
+   #ifdef HEADER_DEFENDO
+      #pragma breakayospine
+      #include "crosscompile.mak"
+   #else
+      #define __SYSTEM
+   #endif
+#endif
+
+#undef DANGER_BOMB
+#undef CRASH_COMPILER
+
+#endif // !defined(CRAMIT_H__7012E9AB_0584_4C2C_BEF9_8066666666DB1__INCLUDED_)
+This veritable preprocessor armor is needed to combat the swarming masses of black and white garbage in the output screen, which is by design.
+Edit Data hiding
+
+Data is something you should be ashamed of. C=C+1 offers the dedicated obfuscationist a plethora of ways of hiding the location of any data. With just a little work, it will become impossible for anyone else to see what your program does, or how it does it, with its data. All this is encapsulated, which is highly encouraged.
+Edit Exceptions
+
+We can't always make exceptions. Except this one.
+Edit The Future
+
+As technology continues to grow faster than Rosie O'Donnell's weight, we can only stand around wondering about the future and Paris Hilton's club raid the other night. It's obvious that these silicon machines we call computers far surpass human acumen, and who knows when we will one day will have Logitech keyboards jammed up our own asses. However, that is not the current problem at hand. The real problem is that as you're reading this, C=C+1 code is being injected into your body through your monitors expelled gamma rays. Death be upon ye. Good luck.
+EditOther Programs
+
+EditC-- the real challange
+A programming language similar to C=C+1 and RPG-code (used for manipulating the weapon system known as RPG Toolkit), C-- has spread to the hacker community and is known to be extremely crude and hard to use, attractive for users of Unix that is. (See Perl.)
+EditMisc. Files
+Iostream.h
+a.out
+windows.h <- no shit, that thing actually exists
+studio.h
+string.h <- so does that one! Wow!
+EditQuotes
+
+“Congratulations to Chris for winning 1st prize in See Tee Tee programing at FBLA regionals!”
+~ Ditsy announcer girl on others' C++ related accomplishment
+“I Wrote My First Works In C, The Overpaid Russian Programmers Loved it the Rest Of The World However they also liked sucking cock! Lyndhed Me , And What A fun Time It Was ”
+~ Oscar Wilde on 32 Gents in a stable
+“Program doubleplus C”
+~ Minitrue on C++
+“If you get good at C++, you might almost be a millionth as cool as I am”
+~ Bruce Campbell on learning C++
+“ ?better(c++,PROLOG). ”
+~ PROLOG on C++
+“This shit is too confusing for me.”
+~ Oscar Wilde on Learning C++
+“Rofl im so pro, I can make a black cmd screen say my name.. wait, Windows has encountered a problem and nneds to close? NOOOOOOOOOOOOOOOOOOOOOOOOOO”
+~ Some n00b on programming in C++
+“In C++::Matrix inverts YOU!!!1 ”
+~ Sesame Street on C++
+“In C++::Object orients YOU!!! ”
+~ Sappho on C++

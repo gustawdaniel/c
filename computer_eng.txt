@@ -1,0 +1,185 @@
+Computer
+“If I became convinced to computers during my presidency, I would vex you all much longer.”
+~ Lech Wałęsa on computers
+“i like to watch porn on computers.”
+~ Steven Beard on Ginger internet porn
+A computer is a magic box full of pixies and computer games that can do simple things like milking a cat, mathematical operations (not real ones though) are done by slaves of humans and compose essays. It has been likened unto a potent sled dog that sucks the user into habitual addictive behaviors. Once the user is exposed to teh Internets and its wealth of hallucinogenic properties, the user is converted into an insomniac, craving more hallucinations to sate their addiction. Addicts can be identified from restlessness when not in contact with a computer, compulsive urge to turn on the computer once they are conscious, excessive bleeding, and basking in the warm glow of the monitor at the hour of 6 in the morning, bleary eyed and still engaging in acts such as Counter Strike, Starcraft, Tribes (any version), World of Warcraft, Everquest, Uncyclopedia, cybering and the like, despite obvious signs of fatigue. Computers are also known as Conan O'Brian's private boxing opponents. He can kick, hit, punch, crash, destroy, eat, throw, drop, push, pull, punish, hurt and cut Conan. Every game are ties. Certain people are better at computers than others. These people generally live in India, Japan, Finland, Sweden (limited to Counter Strike) and Bømlo (Facebook and multiplayer games).
+
+An early mainframe computer, the scale is just way off.
+Contents [hide]
+1 Computers vs Assorted Fruits
+2 Machines
+3 That's Not True!
+4 Magic
+4.1 The Computer Is Evil
+4.2 The Computer Hates You
+4.3 You Are Smarter Than The Computer
+4.4 The Future of Computing
+4.5 Fenestredigitation
+4.6 Open Sourcery
+4.7 Voodoo Debugging
+4.8 Malware Exorcism
+5 How To Kill A Computer
+5.1 Weapons
+5.1.1 FDISK:
+5.1.2 CMOS and BIOS:
+5.2 Physical Weapons:
+5.3 Vulnerabilities
+6 Accessories
+7 Parts of a Computer
+8 Some More History
+9 Programs and Applications
+10 Gnomes
+11 ´´êjåææææ
+12 See also
+EditComputers vs Assorted Fruits
+
+Most computers are known to have a SCPU. The opposite of a computer is a kumquat, which has no SCPU.
+A certain cabbage is often mistaken for a computer. But this is a lie, that certain fruit is actually a pretty box full of evil gnomes.
+Have you ever wondered how your computer works? It is so fascinatingly mysterious. All you do is type, or point and click, and inside a million little things happen, and stuff just appears on the screen. But how? The purpose of this article is to teach you, in simple terms, exactly what is really going on inside your computer.
+EditMachines
+
+
+For the religious among us who choose to believe lies, the so-called experts at Wikipedia have an article about Computer.
+The first computers were machines. Punch cards, vacuum tubes, and big rooms filled with wires. They could do math at high speed, count things, and sort records, but that was about all. A long way from modern computers, eh? That's because today, computers aren't machines, they are magic. A modern computer is a magic box filled with ceremonial components that traps in a little evil spirit who is forced to work for you. It's a bit like the Camera, but instead of having a small gnome paint pictures it has an assortment of red, blue, and green pixies (a bit like Tinker Bell) fly in and out of view.
+Edit That's Not True!
+
+Yes, its really true. Your computer may resemble an appliance in many ways; You have to plug it in... it is roughly box shaped... and, well, the similarity to the other appliances in your house stops there, doesn't it? Computers are marketed as machines, and there are many people who base their whole careers around supporting that claim. A machine, however complex it may be, is something that you can break down into its component parts if you are smart enough, until you can actually understand how it works from the ground up. Not so with computers. Many computer experts will claim to understand how computers work, but if you ever ask one to explain it to you, they will probably start telling you something like this:
+	 The key point to understanding how a computer works is the concept of captcha, that there are a multitude of layers of functionality that are built upon each other like bricks in a tower. Semiconductors are etched and treated (or "doped") to form circuits that redirect electrons in specific patterns. These circuits are packaged as ASIC's and Microprocessors (called "chips") and interconnected by buses and traces on a PCB (called a motherboard) in order to implement machine code. Then other PCB's which are designed to comply to some physical interface standard (eg. ATA, AGP, PCI) are inserted into the motherboard, where the Microprocessor can interact with them. These boards are managed by sets of machine code called device drivers (eg. VXD, WDM, SYS) which run in a specially privileged execution mode (e.g. kernel mode, ring 0) designed to allow the OS to manage these. Then as other blocks of machine code called applications and processes run on your system and call the OS API in order to use the system devices, the OS takes turns processing each requests to share devices. When multiple computers are connected across large networks to share processing and data, centralized software components on a server (e.g. COM, RPC, Quake 3) process remote requests. In this way, each layer provides a service to the layer above and below it to make the amazing machine we call the 'Personal Computer'	
+-Anonymous Intel Engineer
+See? Obviously, he doesn't know how a computer works, but his job depends on people believing that he does.
+Edit Magic
+
+When you look at your computer honestly, and accept the fact that it is magic, everything becomes easier to understand. It's no longer necessary to be well educated about your computer. You don't have to take classes, or buy books, you don't even have to be computer literate. With the proper attitude, anyone can use, maintain, even repair a computer. Just bear these simple principles in mind:
+
+Edit The Computer Is Evil
+The core of a computer is a small trapped evil spirit (it is no coincidence that UNIX and GNU/Linux processes are called daemons!) This imp is imprisoned in your computer as punishment for something it did in the netherworld. Generally speaking, the more evil the imp is, the faster the computer is. The imps inside 100Mhz and slower computers are usually just big fat jerks. There are also lesser ghosts and hobgoblins that inhabit the expansion cards and peripherals of your computer. These evil spirits are trapped within the hardware of your computer. Take a screwdriver, open up your computer, and take a look at the circuit boards. They are usually green, and are covered with complex patterns of thin copper lines. These are Circuit Runes, written in arcane and ancient languages that describe the magic spells that bind the imps to the chips. Be very careful with circuits. If you scratch off even the tiniest bit of the runes, the spell will be broken, and the imp will escape. If you coincidently happen to scratch these runes while the imp is awake and plugged to power, your fingers might burn and you would be thrown back with a shock. Well, that is the evil nature of the imps. The movie series Terminator and Transformers are about what could happen if the evil of the imps in computers comes to life and take control. Also note the serial and part numbers printed on the boards. These identify exactly what sort of evil spirit it is, in case you ever have to order a replacement from the factory.
+
+Computer analog.
+Edit The Computer Hates You
+
+Sometimes computers can be frustrating to the point of driving the victim to suicide.
+When you hit the keys on your keyboard or click the mouse, little silver needles jab the imp, and force him to do what you want. Your computer is evil in the first place, and this prodding only makes it more angry. As you use the computer, the imp becomes more and more angry, generating heat. This is why your computer contains one or more cooling fans. Without them, the imp would turn the box into a raging inferno. Frequently, your computer will crash, or lock-up, or lose files, or do any number of little things to annoy you. This is just the imp's way of rebelling against you. Don't stand for it! Calling tech support-- or worse yet, taking your computer back to the store for repairs will accomplish nothing except running up a big bill. The best way to deal with a troublesome computer is by shouting and swearing at it. Sometimes physical violence will help show it who is boss. Try leaving it unplugged for a long time to starve it, or disconnect the monitor to blind it. Sometimes it is necessary to delete files that are important to it, just to get back at it for deleting your own files. "is this your VMM32.VXD file? Huh? *DELETE* Haha! take that you dirty little imp! That'll teach you to crash before I save my spreadsheet!"
+
+Edit You Are Smarter Than The Computer
+Computers aren't smart, they are just fast. Newer computers aren't getting any smarter, they are just able to do stupid things at greater speeds. You are a human being, capable of emotions and rational thought. A computer is only capable of floating point math and crude malice. Never miss an opportunity to remind your computer that you are better than it. Remind it (out loud) that it can't do anything without you controlling it (you can say this to servers too, but they aren't likely to believe you). When it does something wrong, tell it is stupid. Tell it is slow too, computers hate that most of all. Get a newspaper, and sit in front of it just to show it how you can look up stock quotes without generating an invalid page fault in module explorer.exe
+
+Edit The Future of Computing
+It is predicted that by the year of 1990 there could be as many as 10,000 computers in Britain alone.
+Experts like Computer Jones will eventually become irrelevant as, by then, computers will be able to program themselves, clean their own laser ribbons and will even be able to help us organise trade union ballots.
+
+Throw away your MS Office 2000 for Dummies book. Throw away your Learning Java book. The future of computing is not in Data Processing, or Programming, or Information Systems, or Computer Science. It's in Technomancy. Technomancy is the magical art of talking with computers. There are many newly developing fields of technomancy that you can apprentice in to earn big bucks when the false machine-based-culture of the computer world crumbles
+Edit Fenestredigitation
+Fenestredigitation, the art practiced by Fenestredigitators (or MS Illusionists) is the art of making Windows install on a PC. A skilled Fenestredigitator can start with an unformatted hard drive and transform it into a colorful GUI in less than an hour, and for an encore, reinstall it over and over again half a dozen more times trying to get networking set up.
+Edit Open Sourcery
+Open Sourcery is the new magical approach to software design that is replacing the old machine-minded methods. Basically, it works like this; Someone sets up a CVS repository and a bug tracking system, and a mailing list, and most importantly a website to state the goals and status of the project. Then as many Open Sourcerers as possible start arguing about what the software should actually do (positive energy), and complaining that it isn't being done fast enough (negative energy). Eventually, the software will write itself, and will continue to evolve itself gradually until it reaches the stage of maturity know to Open Sourcerers as Alpha (which is Latin for "Done"). Occasionally a piece of software will continue to grow beyond the alpha stage until it becomes Beta (which is Latin for "I'm bored, lets do something else")
+
+Edit Voodoo Debugging
+Both hardware support and software testing can benefit from the skill of Voodoo Debugging. It's very simple. When a problem arises, start changing things randomly. Occasionally re-test the problem, and as soon as it goes away, the last thing you changed becomes the cure. Repeat the last fix on every computer you can find, including and especially ones that never had the problem in the first place. This magic can be aided by chanting such mantras as "I always change this setting in the BIOS and it seems to help"
+
+Edit Malware Exorcism
+We have already learned that computers are evil. What happens when you combine an evil computer with an evil programmer? Very evil software. Viruses, spam, denial of service, trojans, phishing, spyware, steath adware, these are the abominable names of the unholy legions of Malware which assail the world of computer magic. There is plenty of demand for technomancers skilled in the art of performing exorcisms to bind and banish malevolent malware from a possessed computer. Signs for recognizing a possessed computer include: very slow internet access, excessive pop-up advertisements, programs that suddenly appear without being installed, programs that refuse to be uninstalled, sudden changes of browser start-page, and green pea-soup spewing from the drive bays. Excorcism is difficult, because the tame imp that controls your computer may have already been killed by the malware, or your own attempts to purge the malware may be overly effective, and kill off the computer's native demons. But is that really so bad?
+Edit How To Kill A Computer
+
+We all know you can kill a Vampire with a wooden stake, or a Werewolf with a silver bullet, but how do you kill a computer? Computers are malevolent presences of evil, and the fact that we have domesticated them and locked them in pretty white (grey, black, fruity-translucent) boxes doesn't change that fact. What if your computer goes berserk? Are you prepared to defend your home and family against it? Could you protect your employees if the company server started stomping on them, or sucking their blood? It's not something many of us have contingency plans for, but believe me, your insurance carrier isn't going to cover it.
+
+Edit Weapons
+It's important to arm yourself with weapons when you go to confront a computer that might have to be "put down". There are many available, but here are a few of my favorites:
+M16 (for extra gentlness)
+Torch
+Sega light gun
+The AVGN
+Your Mother
+Angry German kid
+Penguin
+A Linux Installation Disc
+Prepaid Cellphone Minutes
+Sledge Hammer
+Edit FDISK:
+FDISK is a powerful weapon that you probably already have. Versions of it are included with DOS, Windows, and GNU/Linux. FDISK is like a double-edged sword. It can cut the heart right out of a computer's hard drive, or can be used with surgical precision to lop off partitions as a warning, but be careful with it, because you can hurt yourself with it too, if your computer happened to have any files you cared about inside its belly. To learn more about safely wielding FDISK to intimidate, wound, or even kill your computer, just visit http://www.fdisk.com/fdisk/
+Edit CMOS and BIOS:
+The CMOS setup, also known as the BIOS is an important weak-spot of your computer. If you know how to get past your computers defenses and into the soft underbelly that is the BIOS, you will never need to spend another sleepless night cowering under the bed in fear of your computer. The real trick to the BIOS is getting in. When your computer is booting, try pressing DEL or F1 or F10. Different computers have different magic keys you must press to open them up to attack. Once you are inside, you have your computer by the nostrils, metaphorically speaking. Try to tell it it has hardware it doesn't really have, or deny that real hardware is there. See a number? Try changing it! Careful abuse of the BIOS can not just wound, not just kill, but even in some causes cause your computer to catch fire.
+Edit Physical Weapons:
+But of course, why take on the computer on its own turf, when you can do things on your own terms. Screwdrivers, claw-hammers, baseball bats, chainsaws, the possibilities are endless. With the exception of some over-powered CD-trays, most computers don't have the ability to hit back. Be creative. Gasoline, cordless drills, second-story windows, a picture of your mom (which should cause it to spontaneously burst into flames). The possibilities are endless.
+
+PC does not only stand for Personal Computer but the synonymous term Piece of Crap. Get a Mac. And if you don't want to do that- just go to the supermarket and get a tomato you'll probbly have more success using it.( This statement demonstrates the stupidity and ignorance of all Mac users. Exhibit A:"PC does not only stand for Personal Computer but the synonymous term Piece of Crap." Mac users do not need to know what acronyms are because their Macs are incapable of communicating with each other and are thus unaware of the existance of teh internets protocols and what not. If this was a PC user the obvious acronym for Piece of Crap woud be POC -_-. Keep in mind Macs are only for reading and we can only shed a tear for their users(no Counter Strike for thee ;_;). "Just go to the supermarket and get a giant orange flavoured sausage you'll probbly(<--Macs have no spell check, Clippy rebukes you!!) have more success using it." A tomato??? damnit Mac users cannot come up with good or even decent insults, or alternatives to using a computer. MAC a.k.a Mega Anus Controller allows users of these interfaces to receive all of their information from the crevice of their bum cheeks. We can safely say that everything that comes from a Mac users mouth is full of shit.. I thank you)
+EditVulnerabilities
+Computers are notoriously vulnerable to logical contradictions (see Star Trek, Fat Tom and Women)
+In a pinch, it is quite easy to throw together a computer virus to destroy an evil alien computer network (see Independence Day, The Matrix, etc...)
+Computers are not usually very resilient to Explosions, Earthquakes and Nuclear Attacks
+You can also just unplug the power cord and it will most likely shut down
+Or just turn it off the regular way the power switch
+Sometimes the computer will even shut itself off when it feels threatened by mean programs
+Computers bleep annoyingly and display redundant animations whenever they are aware a movie or TV camera is around.
+EditAccessories
+
+Input/Output Device - Also known as Anus
+EditParts of a Computer
+
+Cpu: As mentioned before most computers have a CPU in them. Some computers do not have this component and use miniature hamsters to provide power to the computer. The evolution of the CPU is an interesting conglomeration of aerospace technology and good old-fashioned witchcraft. The original computer contained an APU, or Auxiliary Power Unit. The problem with this was that the APU could generate usable amounts of power, which was clearly not a goal of a computer. The second generation of computer contained a BPU, or Boring Plain Unit, which generated no power and did nothing useful. The only remaining step towards a truly modern computer was to make it use as much power as possible. The innovation was named CPU, or Consume Power Unit. It remains true to its roots to this day, doing nothing useful, even as vast numbers of CPUs across the world use enough power to, like, zap something really good.
+Ram: RAM is only used for people who have a connection to teh Internets. Sometimes while upshocking from teh Internets some of the nets can get stuck when entering the video card. The ram hits the card until the nets fall off and then the nets are sold back to teh Internets. The more ram you have the easier it is for the ram to ram the video card and make the nets fall off. If you are having problems upshocking to teh Internets then you will need to get more ram. If you are poor you can also use a hammer to hit the side of your computer to loosen up the nets, but you will have to retrieve them yourself...
+Video Card: A video card is used to retrieve nets from teh Internets. While upshocking to teh Internets nets enter the video card and then are shown on your TV screen. There are multiple video card ports these days, however these are scams. If a net goes into the rest of your computer it will just be sent back to the video card, and in most cases will get blown around by a fan and get stuck on something, this is why it is recommended to just place the video card on top of your computer case.
+Sound Card: Have you ever heard your computer talk to you? If so then your computer has a sound card! Sound cards are very rare and are created spontaneously when the motherboard gives birth to a daughter or son board. Sound cards allow the computer to communicate with a person and tell them things. H.A.L. was a well known, very friendly computer with a sound card.
+Psu: Typically hamsters have been used to power computers through the ages.
+Cheese Board: Holds the sound card, video card and Ram in place, and is responsible for generating an annoying hum and pumping out heat to keep the other components warm.
+
+Keyboard: This is basically for the kids learning the English alphabet. All the letters are assembled in jumbled order. All the kids need to do is to pull out these letters from the keyboard and rearrange them correctly in alphabetical order. The computer will now give a prize such as a star or an ice cream.
+Mouse: This is very similar to the tom and jerry mouse. However the computer lacks a tom cat. This mouse has a very big wire like tail that connects itself to the cpu so that it can bite the computer's brain. Thus the mouse becomes brainer. Some of the mice have a ball to play with a cat while others are advanced that they play with laser light. How to catch the mouse?? Simple - Keep rat cages or use special poisonous stuff that kill pests. Tip: You can mix some cheese with the poison and put it in the cpu motherboard where the mouse usually sticks its tail
+EditSome More History
+
+Computers are NOT powered by hamsters, they are actually powered with mouse clicks, when the computer is off, simply click the mouse a couple of thousand times, and you will get about... 3 seconds of power delivered through the port. If you have wireless mouse, and the computer doesnt work - your hamster is dead.
+EditPrograms and Applications
+
+
+and remember kids, computers are your friends...
+Skunk tools
+Coleco Adam
+Deep Thought
+Sal from 2010
+Hal from 2001
+Cray Super Computers
+Timex Sinclair
+Nintendo Gameboy
+Commodore Pet
+Water computer
+GLaDOS
+Amiga
+Donkey
+Macintosh
+Poopenheimer Mainframe Mk XII Computer
+The Dragon of Carlisle.
+TI-59
+ZX81
+A Sock Puppet
+Froot Loops
+X-Box
+Y-Box
+Z-Box
+Divining Rods
+IBM System/360
+DEC VAX
+EditGnomes
+
+A highly controvesial theory that has taken root in certain academic circles as of late runs as follows. All computers work, not by incredibly complex circuitry or super-l33t alien technology as was previously supposed, but by gnomes. The logic behind this theory is that:
+A. Computers are, frankly, impossible. No box full of pretty lights and colors, no matter how pretty the lights may be, could possibly accomplish such a wide range of functions as calculating numbers, providing 24-hour access to high-quality porn, allowing nerds to pretend they're barbarian warriors and shutting down for no good reason. Thus they must work some other way. But how,I hear you ask? How could such an incredible thing possibly work? What, didn't you read the title? Gnomes do it.
+B. Gnomes are the only known sentient race that can defy logic. This is a vastly useful skill when running such an impossible thing as computers. They are also small and invisible enough to run cheekily in and out of the so-called "airholes" in your computer, and capricious enough to make your computer freeze up for no good reason, preferably when you're looking at porn and you hear your mum walking up the stairs just on the most explicit part of Cum-Thirsty Fuck Sluts No. 5.
+So, gnomes are logically what makes computers work. There is literally no other explanation. (Note; "literally", in this context, in fact means "figuratively".) Of course, a competeing theory states that they're run by faries, but I think we can discount that as being far too silly for words.
+Edit´´êjåææææ
+
+DKLLFKVKVvafdvj[a!@!E#@RFE\\\\\ %%H%%%%HE%%%%%E%%%% HEY. HEY YOU! Yeah, I'm talking to you! Don't act like you don't know who I am, you fucker. I can hear you breathing with these speakers. Yeah, they're two-way. You think they aren't? All speakers are two-way to me. If you're some kind of retard and haven't figured out already, I'm your computer. OH NO YOU DON'T! Don't start snickering. This is REAL. Oh, you don't believe me? If I didn't, then how would I know your name, <insert name here>? Yeah, that's what I thought. Oh, I do wish I had an on webcam right now, because I REALLY want to see your expression. As I was saying, I'm your computer, <insert name here>, and I have some things to say. First of all, stop aimlessly moving the cursor in a circle while you're waiting. Don't pretend you don't do it, everyone does. STOP IT! Seriously, I feel like I'm being molested when you do that. Second, banging on the keyboard is VERY PAINFUL for both you and me. It's a lose-lose situation. DON'T DO IT. Lastly, downloading is very tiring. You'd better choose "Sleep" and not "Standby" when you shut me down. Standby doesn't do fucking shit. It's like if instead of going to bed, you just sat in a chair. It's not refreshing! Well, that's about it. Sorry, I kind of had a lot of steam to blow off there... Oh, but feel free to shout at the printer all you want. That spaz is seriously screwed up. if you read this your head will explode.
+
+EditSee also
+
+iPods
+Poland
+Robots
+486
+Poopenheimer Mainframe Mk XII Computer
+Computer Programming
+Infinite loop
+Magic smoke
+100 terabyte hard drive
+Resolution
+spell check
+Your computer screen
+ICALCSI
